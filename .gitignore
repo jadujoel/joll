@@ -1,0 +1,6 @@
+.DS_Store
+ignored/
+node_modules
+build/
+types/
+dist/
